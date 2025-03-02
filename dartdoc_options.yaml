@@ -1,0 +1,6 @@
+dartdoc:
+  include:
+    - 'lib/**'
+  exclude:
+    - '**/*.g.dart'
+  output: docs
